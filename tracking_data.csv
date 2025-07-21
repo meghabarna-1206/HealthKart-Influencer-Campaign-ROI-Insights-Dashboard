@@ -1,0 +1,101 @@
+source,campaign,influencer_id,user_id,product,date,orders,revenue
+influencer_campaign,Campaign_A,INF002,ba35d5e7-169d-404c-8f8a-37901891a522,Multivitamin,2025-06-12,1,590.65
+influencer_campaign,Campaign_B,INF001,f050e5b9-7947-4d08-9925-a12b353a0e2b,Whey Protein,2025-06-06,2,509.87
+influencer_campaign,Campaign_A,INF001,c249faa0-97ca-4be0-876d-a5d7e267fb1b,Multivitamin,2025-06-16,2,547.13
+influencer_campaign,Campaign_A,INF017,7d51bafe-95af-4cce-a21f-c7ed24e6daf1,Kids Drink,2025-06-06,2,998.55
+influencer_campaign,Campaign_A,INF015,bae1053e-d1e9-4021-a4b1-6f2371cfd005,Whey Protein,2025-07-16,4,881.51
+influencer_campaign,Campaign_A,INF002,4ed13ce8-2df7-4c12-89c7-8dacdb83c31e,Kids Drink,2025-07-14,2,570.39
+influencer_campaign,Campaign_A,INF004,875f54fe-c59e-488e-bfae-6b7bce5ec743,Multivitamin,2025-07-21,2,703.3
+influencer_campaign,Campaign_B,INF004,cb00d764-94fc-4ebd-8de7-e1b93acbf66f,Multivitamin,2025-06-21,4,720.74
+influencer_campaign,Campaign_B,INF001,d3f955b4-8576-4910-abf6-7d54fb48b749,Multivitamin,2025-06-01,1,293.22
+influencer_campaign,Campaign_A,INF013,9acf91df-4108-407b-85c6-188dcf35bc38,Whey Protein,2025-06-20,4,223.44
+influencer_campaign,Campaign_B,INF001,8b8879da-36f5-4692-9376-a2452e600483,Whey Protein,2025-06-11,2,767.17
+influencer_campaign,Campaign_A,INF008,66daa784-c140-4000-9fc0-c13c08e21648,Multivitamin,2025-05-23,1,862.8
+influencer_campaign,Campaign_A,INF003,0552ec86-15fe-4f58-97d0-37cd06d784aa,Kids Drink,2025-07-07,4,566.64
+influencer_campaign,Campaign_B,INF017,7f428aef-1f0b-47c6-b1c6-1961c150f530,Whey Protein,2025-07-01,3,954.76
+influencer_campaign,Campaign_B,INF019,7c6d6fd6-10a5-4d37-811c-3ab08de4d623,Multivitamin,2025-07-20,1,520.12
+influencer_campaign,Campaign_A,INF010,51681042-508f-434d-a225-53f50427beb3,Kids Drink,2025-07-06,1,109.21
+influencer_campaign,Campaign_A,INF014,7a8f8058-94fa-4edf-87c6-62f12786c450,Multivitamin,2025-05-29,1,399.1
+influencer_campaign,Campaign_A,INF019,2a1ba88f-270d-48a9-8ee6-3398a8537447,Multivitamin,2025-05-23,3,877.72
+influencer_campaign,Campaign_B,INF015,19472b03-d629-47f1-836b-44f3007c94c7,Whey Protein,2025-07-05,2,688.41
+influencer_campaign,Campaign_B,INF008,59d9c249-b960-4496-9a4f-fac2e3915577,Whey Protein,2025-06-03,1,601.3
+influencer_campaign,Campaign_B,INF005,ecca2ee5-c557-4e49-a7ac-5cc35bcaa7bc,Kids Drink,2025-06-16,2,167.01
+influencer_campaign,Campaign_B,INF003,fc58d705-a3b2-4bd3-af38-a11f081df9fb,Kids Drink,2025-06-09,4,185.71
+influencer_campaign,Campaign_B,INF001,e96db000-0ed5-4ec9-b8c2-c0ea11e67b9a,Whey Protein,2025-06-22,2,622.85
+influencer_campaign,Campaign_A,INF012,d5235045-ece9-4c17-955e-37a4bbd1a2bd,Whey Protein,2025-06-09,3,943.42
+influencer_campaign,Campaign_B,INF019,4cc1b23a-320b-4375-81f8-1706fc149caa,Whey Protein,2025-06-01,4,176.05
+influencer_campaign,Campaign_A,INF003,bf905270-971c-4b7f-ba0d-c4766b5e577d,Kids Drink,2025-06-01,4,320.71
+influencer_campaign,Campaign_B,INF006,387a7ce1-2936-4b20-b3d3-38840aac245c,Whey Protein,2025-06-09,1,871.96
+influencer_campaign,Campaign_A,INF012,0f4f9a55-9919-4af7-8b13-e8de42cac93e,Whey Protein,2025-06-05,4,427.47
+influencer_campaign,Campaign_A,INF010,025aa765-e61d-404f-bd18-10226ff8b987,Kids Drink,2025-07-02,4,273.51
+influencer_campaign,Campaign_A,INF015,272b6c63-ef45-4c6c-9359-2e7a6d9295f9,Multivitamin,2025-06-27,4,490.51
+influencer_campaign,Campaign_A,INF007,b572a247-cc22-472d-ac9e-42bf00b04a67,Whey Protein,2025-07-09,3,242.06
+influencer_campaign,Campaign_B,INF013,7426eab3-2fdd-473c-8ab4-f3d702965d85,Whey Protein,2025-06-02,4,155.8
+influencer_campaign,Campaign_A,INF015,d6b6c827-b055-47a1-9460-23effd47e916,Multivitamin,2025-06-16,3,721.82
+influencer_campaign,Campaign_B,INF003,ef642494-37e6-43b1-8cb4-194e6fa413c7,Multivitamin,2025-06-09,3,488.63
+influencer_campaign,Campaign_B,INF012,af3ca6b2-fb17-4796-85c9-f5ca71ea74c2,Kids Drink,2025-06-26,4,634.75
+influencer_campaign,Campaign_A,INF006,566b3318-3ba5-4326-bacd-cb6c5ee1ce2a,Whey Protein,2025-06-13,2,450.14
+influencer_campaign,Campaign_B,INF010,c8688c32-1e40-45e8-b7aa-b21ab0b765d0,Whey Protein,2025-05-22,2,388.64
+influencer_campaign,Campaign_A,INF010,f56bee38-2805-4088-80b4-bbb1191690f5,Kids Drink,2025-06-23,3,704.81
+influencer_campaign,Campaign_A,INF006,73c3c5f9-93c9-4c69-9f65-ba554fb35897,Whey Protein,2025-06-29,2,176.65
+influencer_campaign,Campaign_B,INF018,7bb34f9f-26f2-496d-8cd5-a08110cb9fa9,Kids Drink,2025-06-01,4,175.65
+influencer_campaign,Campaign_A,INF013,a659bfce-65f2-40ad-a89e-f879728be287,Multivitamin,2025-06-06,4,405.47
+influencer_campaign,Campaign_A,INF010,932ee650-bdb2-424f-b84e-75e22cde2e9a,Multivitamin,2025-05-22,1,114.5
+influencer_campaign,Campaign_B,INF010,9a49bfe6-a8e9-4ef0-aa04-1c598858a6a5,Whey Protein,2025-07-15,2,735.03
+influencer_campaign,Campaign_B,INF011,5c6ec61b-f14e-45bf-b5c4-da183e1f44b0,Multivitamin,2025-05-28,2,763.41
+influencer_campaign,Campaign_A,INF007,9be11a8e-96ec-46c8-b267-995aedf389a5,Kids Drink,2025-05-22,3,106.06
+influencer_campaign,Campaign_B,INF013,febf3c75-6ea5-4fda-b018-e7b9b9635e4c,Multivitamin,2025-05-29,1,365.16
+influencer_campaign,Campaign_B,INF013,f7af1a2e-f4ec-40f6-994a-0d770abf5b5b,Kids Drink,2025-06-02,1,153.51
+influencer_campaign,Campaign_A,INF020,ed008ef7-e73a-43e9-ba3c-a65cc431a77c,Kids Drink,2025-06-12,2,405.11
+influencer_campaign,Campaign_A,INF016,f0f06ce0-c568-4654-a067-f506ff50b637,Whey Protein,2025-05-26,2,714.09
+influencer_campaign,Campaign_A,INF009,6f253ff1-0938-4564-a3e0-c4f1543a8a77,Multivitamin,2025-07-13,4,935.69
+influencer_campaign,Campaign_B,INF002,89eba7a2-afff-49e6-ad3b-831507926297,Whey Protein,2025-06-04,4,652.76
+influencer_campaign,Campaign_B,INF007,d5082bd0-9c01-4307-8d66-c802e9fb8e65,Multivitamin,2025-06-17,4,255.07
+influencer_campaign,Campaign_B,INF014,d8ab9981-9a97-407f-984a-bd6b97febc72,Multivitamin,2025-07-06,4,589.16
+influencer_campaign,Campaign_A,INF020,7f1d26b1-6a88-4814-b188-afe688509090,Kids Drink,2025-07-06,3,568.75
+influencer_campaign,Campaign_B,INF011,1e82c6cf-d490-4858-a399-8be3e152fc88,Multivitamin,2025-07-06,4,580.21
+influencer_campaign,Campaign_A,INF007,3c1170ab-2bcc-4ded-bf89-e7a1323caf22,Whey Protein,2025-05-25,3,925.97
+influencer_campaign,Campaign_B,INF007,29a8402c-1a66-4bd8-a51b-0cb0dcbc9072,Multivitamin,2025-07-21,1,357.64
+influencer_campaign,Campaign_B,INF016,48fa7d11-4882-4a80-8e0f-797b1e0a8316,Multivitamin,2025-05-29,3,152.27
+influencer_campaign,Campaign_A,INF017,e9807585-f802-4b24-a5e2-06169bc2943f,Multivitamin,2025-06-30,3,281.51
+influencer_campaign,Campaign_A,INF012,c1b3cde6-2601-4170-ace6-77fa07add6be,Kids Drink,2025-06-07,1,661.41
+influencer_campaign,Campaign_A,INF016,41f4e1d9-3f6b-441c-9137-d62d25387cbf,Multivitamin,2025-06-12,4,814.94
+influencer_campaign,Campaign_A,INF009,2b308434-d33a-4d03-8909-f0902db5beef,Kids Drink,2025-05-24,2,355.43
+influencer_campaign,Campaign_A,INF018,8a43888e-26ff-4205-beed-8e21e933e649,Whey Protein,2025-07-14,2,663.32
+influencer_campaign,Campaign_B,INF009,83274ed0-14a0-4f21-a15a-30595a968c5d,Whey Protein,2025-06-18,2,286.84
+influencer_campaign,Campaign_B,INF020,b3cada90-dbf9-44d4-b10a-59b0606807a3,Whey Protein,2025-07-14,2,304.98
+influencer_campaign,Campaign_B,INF005,f25c24ab-3c36-430f-aced-61c8c49f9fa3,Kids Drink,2025-05-27,3,651.48
+influencer_campaign,Campaign_A,INF006,db9ebe44-bb41-4115-94d7-52e0822c1d61,Kids Drink,2025-05-26,1,996.44
+influencer_campaign,Campaign_A,INF002,9e022fd3-f989-442c-ac04-7e73cfd32458,Kids Drink,2025-06-03,3,280.89
+influencer_campaign,Campaign_A,INF019,b9311803-3766-4553-9f49-65e475d281b7,Multivitamin,2025-07-09,3,846.18
+influencer_campaign,Campaign_A,INF002,4b5285cd-60fa-40d4-a21a-62ae983665f7,Multivitamin,2025-05-30,1,915.74
+influencer_campaign,Campaign_B,INF001,0e9b8543-177f-4411-b52f-bd4b8d723f18,Whey Protein,2025-05-26,4,789.87
+influencer_campaign,Campaign_B,INF004,135243b1-ba41-442f-977b-5674c1807702,Whey Protein,2025-07-09,3,646.99
+influencer_campaign,Campaign_B,INF009,e9e52b00-06b2-4d20-bce4-06c70e841fe8,Whey Protein,2025-05-26,3,503.75
+influencer_campaign,Campaign_B,INF002,755dcdea-a18b-4838-b072-54ad6f67fb3b,Multivitamin,2025-05-23,4,787.61
+influencer_campaign,Campaign_B,INF007,896bc189-a012-4ed4-8cc6-61f0be80f13e,Multivitamin,2025-07-02,3,521.0
+influencer_campaign,Campaign_B,INF020,3fe29e66-9b41-47f2-93b3-3668bd8cd063,Kids Drink,2025-05-25,2,319.12
+influencer_campaign,Campaign_A,INF018,3ddefca1-ce2b-4bef-bf70-39add0e9f547,Multivitamin,2025-05-24,1,567.31
+influencer_campaign,Campaign_A,INF013,84769138-ac9d-486e-992e-65d7fd1c5847,Kids Drink,2025-06-23,1,272.65
+influencer_campaign,Campaign_A,INF012,2d8b7d9c-965e-4abf-8154-9e27e6946767,Kids Drink,2025-06-27,2,390.84
+influencer_campaign,Campaign_B,INF018,13b5124d-5cdd-450e-833c-bb996b5bcca9,Kids Drink,2025-07-20,1,513.09
+influencer_campaign,Campaign_A,INF018,84f17a77-4852-4536-bd0f-bf57f393d54f,Kids Drink,2025-07-21,1,433.94
+influencer_campaign,Campaign_A,INF009,e753a306-a3b5-45b9-9ad8-6f42fc9830f0,Multivitamin,2025-07-09,3,414.88
+influencer_campaign,Campaign_A,INF002,ef2437a9-6eea-4e3d-8294-8594ab91689d,Multivitamin,2025-06-29,4,961.08
+influencer_campaign,Campaign_A,INF002,32368845-807b-49fb-8143-b72a5e2d699c,Kids Drink,2025-06-30,4,211.98
+influencer_campaign,Campaign_B,INF009,34fccfa9-00ca-4aaf-9418-06bd569f1aad,Kids Drink,2025-07-21,2,809.88
+influencer_campaign,Campaign_A,INF001,e0bf17ee-12d9-427d-8af9-943ccfeaafb2,Multivitamin,2025-05-29,2,151.64
+influencer_campaign,Campaign_A,INF004,6a3c8e2c-334a-4917-8486-a27b6614b418,Kids Drink,2025-06-01,3,683.83
+influencer_campaign,Campaign_A,INF016,3075b261-a3f2-401a-8a25-10fe7d8ea678,Multivitamin,2025-05-26,2,894.67
+influencer_campaign,Campaign_B,INF015,9df65c22-56d8-43d3-92df-5b4954d6f12b,Kids Drink,2025-07-05,1,690.87
+influencer_campaign,Campaign_B,INF008,30fc9265-9dff-4c73-83ba-1f95fc724258,Whey Protein,2025-07-02,4,789.47
+influencer_campaign,Campaign_A,INF009,324f85a7-4fb1-4370-9e0f-b2fd53a9df6a,Whey Protein,2025-06-16,4,381.44
+influencer_campaign,Campaign_B,INF017,7bc054c3-47bf-48ee-9dea-f989fe689a45,Multivitamin,2025-07-19,4,980.62
+influencer_campaign,Campaign_B,INF004,57181c88-147b-4a23-80be-acdd342eba69,Kids Drink,2025-06-05,3,349.55
+influencer_campaign,Campaign_B,INF008,71bdf4c8-f3a0-4805-9b8d-764f327d1234,Kids Drink,2025-05-23,4,106.7
+influencer_campaign,Campaign_A,INF001,98ea1520-3ed3-485f-b22a-e6b064f21a1d,Multivitamin,2025-06-02,1,466.59
+influencer_campaign,Campaign_A,INF006,dee8f462-8d67-4616-a368-27610e596494,Whey Protein,2025-06-22,4,262.75
+influencer_campaign,Campaign_B,INF014,6c290183-8bdb-4a5f-9b3a-01539b39f408,Whey Protein,2025-06-19,3,910.37
+influencer_campaign,Campaign_A,INF016,0e98823f-44be-410a-a3b6-eb95816f342c,Kids Drink,2025-07-14,3,156.96
+influencer_campaign,Campaign_B,INF008,6fd3bebd-77d7-460a-a7fd-7ce4d7f60040,Multivitamin,2025-05-22,2,564.09
+influencer_campaign,Campaign_B,INF002,49255050-bcdf-46cd-b802-fd1d1c5701bf,Multivitamin,2025-07-02,4,615.08
