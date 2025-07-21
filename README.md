@@ -333,29 +333,47 @@ ORDER BY roi ASC
 LIMIT 10; /*Bottom 10*/
 ```
 
+## 🔍 Results
+
+### Top Influencers (by revenue or orders)
+
+| influencer_name      | platform  | category  | total_revenue | total_orders |
+|----------------------|-----------|-----------|---------------|--------------|
+| Andre Johnson        | Twitter   | Fitness   | 76,656        | 16           |
+| Shelby Torres        | Instagram | Nutrition | 37,183        | 19           |
+| Destiny Campos       | Instagram | Fitness   | 27,902        | 7            |
+| Mary Brooks          | Twitter   | Nutrition | 24,954        | 6            |
+| Michael Davis        | Instagram | Fitness   | 26,256        | 6            |
+| Christopher Turner   | YouTube   | Fitness   | 21,274        | 11           |
+| Erin Butler          | Twitter   | Wellness  | 14,184        | 6            |
+| Ariana Reese         | Twitter   | Wellness  | 7,210         | 7            |
+| Samantha Barrett     | YouTube   | Wellness  | 6,664         | 2            |
+| Jonathan Alexander   | Twitter   | Nutrition | 3,880         | 19           |
 
 
+### Best Personas (top influencer categories by ROI)
+
+| persona    | total_influencers | total_revenue | total_payout | roi   |
+|------------|-------------------|---------------|--------------|-------|
+| Fitness    | 5                 | 152,088       | 104,573      | 0.45  |
+| Wellness   | 4                 | 32,058        | 28,558       | 0.12  |
+| Nutrition  | 11                | 72,917        | 78,459       | -0.07 |
 
 
+### Poor ROIs (bottom influencers by ROI)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| influencer_name      | category  | platform  | total_revenue | total_payout | roi    |
+|----------------------|-----------|-----------|---------------|--------------|--------|
+| Stephanie Finley     | Wellness  | Instagram | 405.11        | 574          | -0.29  |
+| Mary Brooks          | Nutrition | Twitter   | 24,954        | 24,954       | 0.00   |
+| Jonathan Alexander   | Nutrition | Twitter   | 3,880         | 3,880        | 0.00   |
+| Erin Butler          | Wellness  | Twitter   | 14,184        | 14,184       | 0.00   |
+| Ariana Reese         | Wellness  | Twitter   | 7,210         | 7,210        | 0.00   |
+| Samantha Barrett     | Wellness  | YouTube   | 6,664         | 6,664        | 0.00   |
+| Holly Tucker         | Nutrition | Twitter   | 946           | 946          | 0.00   |
+| Megan Koch           | Fitness   | Instagram | 4,247         | 4,247        | 0.00   |
+| Paul Davis           | Nutrition | Twitter   | 3,898         | 3,898        | 0.00   |
+| Heather Rice         | Nutrition | Twitter   | 3,245         | 3,245        | 0.00   |
 
 
 
