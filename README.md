@@ -1,4 +1,4 @@
-# HealthKart-Influencer-Campaign-ROI-Insights-Dashboard
+# HealthKart Influencer Campaign ROI Insights Dashboard
 
 This project is a comprehensive analytics solution built to simulate, track, and visualize influencer marketing performance for HealthKart. The system measures key metrics like ROI, Incremental ROAS, influencer effectiveness, and campaign-level insights using SQL-based data modeling and a dashboard interface.
 
