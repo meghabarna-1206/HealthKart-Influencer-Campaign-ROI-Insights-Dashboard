@@ -2,6 +2,8 @@
 
 This project is a comprehensive analytics solution built to simulate, track, and visualize influencer marketing performance for HealthKart. The system measures key metrics like ROI, Incremental ROAS, influencer effectiveness, and campaign-level insights using SQL-based data modeling and a dashboard interface.
 
+![HK Logo](images_HK.png)
+
 ## 📌 Project Overview
 Influencer marketing is critical for brand visibility and growth. This open-source project helps HealthKart:
 
